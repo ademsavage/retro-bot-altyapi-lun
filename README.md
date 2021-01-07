@@ -1,2 +1,1 @@
-# bottwenzy-wertoyg
-RetroLUN için yapılıp &amp; paylaşılan discord bot altyapısı!
+# RetroLUN | Retro Bot Altyapısı
