@@ -11,7 +11,7 @@ client.twenzy = {
   "botid": "761504876436914187",
   "prefix": "!",
   "renk": "#7289da",
-  "token": "NzYxNTA0ODc2NDM2OTE0MTg3.X3bkrg.Xm-fOJwfE-WXxuIUdemBEq-DL90"
+  "token": "TOKENİNİZ"
 };
 
 //----------------------------------------------\\
@@ -112,14 +112,4 @@ client.on('message', async msg => {
   if(msg.content == `<@!${client.twenzy.botid}>`) return msg.channel.send(`> **RetroLUN | Prefix**\n\n> **Sanırım beni etiketlediniz.**\n > Buyurun prefix(ön ek)im \`${client.twenzy.prefix}\``);
 });
 
-
-
-//---------------------------------------------------\\
-
-
-//-----------------Mute Sistemi-----------------\\
-
-
-
-//---------------------------------------------------\\
 
