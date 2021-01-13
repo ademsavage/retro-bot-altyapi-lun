@@ -8,8 +8,8 @@ const db = require('quick.db');
 
 
 client.twenzy = {
-  "botid": "761504876436914187",
-  "prefix": "!",
+  "botid": "Nzk4ODM0NTk5MTkwNTkzNTk2.X_6ysg.j2F2OaF5znSdXubqj5zB1qCgV88",
+  "prefix": ".",
   "renk": "#7289da",
   "token": "TOKENİNİZ"
 };
